@@ -4,7 +4,7 @@
   "description": "[![Build Status](https://travis-ci.org/Azure-Q/Travis-Test.svg?branch=master)](https://travis-ci.org/Azure-Q/Travis-Test)",
   "main": "Gruntfile.js",
   "dependencies": {
-    "jasmine": "^3.5.0",
+    "jasmine": "^3.6.1",
     "grunt": "~0.4.5",
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-contrib-nodeunit": "~0.4.1",
